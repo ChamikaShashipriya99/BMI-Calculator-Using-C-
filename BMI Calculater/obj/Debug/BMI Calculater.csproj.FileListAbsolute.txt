@@ -1,0 +1,31 @@
+C:\Users\HP\source\repos\BMI Calculater\BMI Calculater\bin\Debug\BMI Calculater.exe.config
+C:\Users\HP\source\repos\BMI Calculater\BMI Calculater\bin\Debug\BMI Calculater.exe
+C:\Users\HP\source\repos\BMI Calculater\BMI Calculater\bin\Debug\BMI Calculater.pdb
+C:\Users\HP\source\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI_Calculater.Properties.Resources.resources
+C:\Users\HP\source\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.exe
+C:\Users\HP\source\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.pdb
+C:\Users\HP\source\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI_Calculater.formBMI.resources
+F:\ATI\repos\BMI Calculater\BMI Calculater\bin\Debug\BMI Calculater.exe.config
+F:\ATI\repos\BMI Calculater\BMI Calculater\bin\Debug\BMI Calculater.exe
+F:\ATI\repos\BMI Calculater\BMI Calculater\bin\Debug\BMI Calculater.pdb
+F:\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.csprojAssemblyReference.cache
+F:\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI_Calculater.formBMI.resources
+F:\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI_Calculater.Properties.Resources.resources
+F:\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.csproj.GenerateResource.cache
+F:\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.csproj.CoreCompileInputs.cache
+F:\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.exe
+F:\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.pdb
+C:\Users\USER™\Desktop\ATI\repos\BMI Calculater\BMI Calculater\bin\Debug\BMI Calculater.exe.config
+C:\Users\USER™\Desktop\ATI\repos\BMI Calculater\BMI Calculater\bin\Debug\BMI Calculater.exe
+C:\Users\USER™\Desktop\ATI\repos\BMI Calculater\BMI Calculater\bin\Debug\BMI Calculater.pdb
+C:\Users\USER™\Desktop\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.csproj.AssemblyReference.cache
+C:\Users\USER™\Desktop\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER™\Desktop\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI_Calculater.formBMI.resources
+C:\Users\USER™\Desktop\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI_Calculater.Properties.Resources.resources
+C:\Users\USER™\Desktop\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.csproj.GenerateResource.cache
+C:\Users\USER™\Desktop\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.csproj.CoreCompileInputs.cache
+C:\Users\USER™\Desktop\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.exe
+C:\Users\USER™\Desktop\ATI\repos\BMI Calculater\BMI Calculater\obj\Debug\BMI Calculater.pdb
